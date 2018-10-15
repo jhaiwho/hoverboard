@@ -47,14 +47,14 @@
     }
   },
   "gallery" : [
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+    "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fgallery%2Fgallery-2.jpg?alt=media&token=022bd997-aefb-46ba-8e6d-0bb8741fd189",
+    "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fgallery%2Fgallery-4.jpg?alt=media&token=a3a31f8d-e654-4def-8a9f-7f52824c7c51",
+    "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fgallery%2Fgallery-1.jpg?alt=media&token=9b824df0-f127-41e2-9a54-6313392b3fa2",
+    "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fgallery%2Fgallery-3.jpg?alt=media&token=9bc6d580-1105-4607-82db-28571fc00d6b",
+    "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fgallery%2Fgallery-5.jpg?alt=media&token=cf516df8-b990-4cd9-9778-87b35f86f8c4",
+    "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fgallery%2Fgallery-6.jpg?alt=media&token=d8b9aa78-1d36-400e-aa6e-28a7744e304e",
+    "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fgallery%2Fgallery-7.jpg?alt=media&token=5e758905-a360-4ef2-9b4e-83fdecebc2f3",
+    "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fgallery%2Fgallery-8.jpg?alt=media&token=a8661cdf-55e3-48db-8b3d-bb4f01ac8477"
   ],
   "notifications" : {
     "config" : {
@@ -68,82 +68,85 @@
   },
   "partners" : [ {
     "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164"
+      "logoUrl" : "../images/logos/google.png",
+      "name" : "Google",
+      "url" : "https://developers.google.com/programs/community/gdg/"
     } ],
-    "title" : "Template Creator"
+    "title" : "Powered By"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
+      "logoUrl" : "../images/logos/mednefits.png",
+      "name" : "Mednefits",
+      "url" : "https://www.mednefits.com/"
+    }],
+    "title" : "Platinum Partners"
+  },{
+    "logos" : [ {
+      "logoUrl" : "../images/logos/isi.png",
+      "name" : "Innovuze Solutions Inc.",
+      "url" : "https://www.innovuze.com/"
     } ],
-    "title" : "General Partner"
+    "title" : "Bronze Partners"
   } ],
   "schedule" : {
     "2016-09-09" : {
-      "dateReadable" : "September 9",
+      "dateReadable" : "November 10",
       "timeslots" : [ {
-        "endTime" : "10:00",
+        "endTime" : "09:00 AM",
         "sessions" : [ {
           "items" : [ 132 ]
         } ],
-        "startTime" : "09:00"
+        "startTime" : "08:00 AM"
       }, {
-        "endTime" : "10:15",
+        "endTime" : "09:05 AM",
         "sessions" : [ {
           "items" : [ 136 ]
         } ],
-        "startTime" : "10:00"
+        "startTime" : "09:00 AM"
       }, {
-        "endTime" : "11:00",
+        "endTime" : "09:10 AM",
         "sessions" : [ {
           "items" : [ 139 ]
         } ],
-        "startTime" : "10:15"
+        "startTime" : "09:05 AM"
       }, {
-        "endTime" : "11:40",
+        "endTime" : "09:40 AM",
+        "sessions" : [ {
+          "items" : [ 139 ]
+      } ],
+        "startTime" : "09:10 AM"
+      }, {
+        "endTime" : "10:10 AM",
+        "sessions" : [ {
+          "items" : [ 139 ]
+        } ],
+        "startTime" : "09:40 AM"
+      }, {
+        "endTime" : "10:40 AM",
+        "sessions" : [ {
+          "items" : [ 139 ]
+        } ],
+        "startTime" : "10:10 AM"
+      }, {
+        "endTime" : "11:05 AM",
+        "sessions" : [ {
+          "items" : [ 139 ]
+        } ],
+        "startTime" : "10:40 AM"
+      }, {
+        "endTime" : "11:35 AM",
+        "sessions" : [ {
+          "items" : [ 139 ]
+        } ],
+        "startTime" : "11:05 AM"
+      }, {
+        "endTime" : "12:00 PM",
+        "sessions" : [ {
+          "items" : [ 139 ]
+        } ],
+        "startTime" : "11:35 AM"
+      }, {
+        "endTime" : "02:00 PM",
         "sessions" : [ {
           "items" : [ 103, 112 ]
         }, {
@@ -152,194 +155,52 @@
           "extend" : 3,
           "items" : [ 109 ]
         } ],
-        "startTime" : "11:00"
+        "startTime" : "01:00 PM"
       }, {
-        "endTime" : "12:30",
+        "endTime" : "03:00 PM",
         "sessions" : [ {
           "items" : [ 129 ]
         }, {
           "items" : [ 116 ]
         } ],
-        "startTime" : "11:50"
+        "startTime" : "02:00 PM"
       }, {
-        "endTime" : "14:00",
+        "endTime" : "04:00 PM",
         "sessions" : [ {
           "items" : [ 133 ]
         } ],
-        "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
-        "sessions" : [ {
-          "items" : [ 101 ]
-        }, {
-          "items" : [ 118 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 107 ]
-        } ],
-        "startTime" : "14:00"
-      }, {
-        "endTime" : "15:30",
-        "sessions" : [ {
-          "items" : [ 140 ]
-        }, {
-          "items" : [ 126 ]
-        } ],
-        "startTime" : "14:50"
-      }, {
-        "endTime" : "16:00",
+        "startTime" : "03:00 PM"
+      },  {
+        "endTime" : "04:50 PM",
         "sessions" : [ {
           "items" : [ 134 ]
         } ],
-        "startTime" : "15:30"
+        "startTime" : "04:00 PM"
       }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
-          "items" : [ 105 ]
-        }, {
-          "items" : [ 127 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 119 ]
-        } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 112 ]
-        }, {
-          "items" : [ 111 ]
-        } ],
-        "startTime" : "16:50"
-      }, {
-        "endTime" : "18:20",
-        "sessions" : [ {
-          "items" : [ 106 ]
-        }, {
-          "items" : [ 125 ]
-        } ],
-        "startTime" : "17:40"
-      }, {
-        "endTime" : "22:30",
-        "sessions" : [ {
-          "items" : [ 137 ]
-        } ],
-        "startTime" : "18:30"
-      } ],
-      "tracks" : [ {
-        "title" : "Expo hall"
-      }, {
-        "title" : "Conference hall"
-      }, {
-        "title" : "Workshops hall"
-      } ]
-    },
-    "2016-09-10" : {
-      "dateReadable" : "September 10",
-      "timeslots" : [ {
-        "endTime" : "10:10",
-        "sessions" : [ {
-          "items" : [ 135 ]
-        } ],
-        "startTime" : "09:30"
-      }, {
-        "endTime" : "10:50",
-        "sessions" : [ {
-          "items" : [ 114 ]
-        }, {
-          "items" : [ 117 ]
-        }, {
-          "items" : [ 121 ]
-        } ],
-        "startTime" : "10:10"
-      }, {
-        "endTime" : "11:40",
-        "sessions" : [ {
-          "items" : [ 122 ]
-        }, {
-          "items" : [ 113 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 121 ]
-        } ],
-        "startTime" : "11:00"
-      }, {
-        "endTime" : "12:30",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 124 ]
-        } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:00",
-        "sessions" : [ {
-          "items" : [ 133 ]
-        } ],
-        "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
-        "sessions" : [ {
-          "items" : [ 108 ]
-        }, {
-          "items" : [ 128 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 102 ]
-        } ],
-        "startTime" : "14:00"
-      }, {
-        "endTime" : "15:30",
-        "sessions" : [ {
-          "items" : [ 110 ]
-        }, {
-          "items" : [ 123 ]
-        } ],
-        "startTime" : "14:50"
-      }, {
-        "endTime" : "16:00",
+        "endTime" : "05:00 PM",
         "sessions" : [ {
           "items" : [ 134 ]
         } ],
-        "startTime" : "15:30"
-      }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
-          "items" : [ 131 ]
-        }, {
-          "items" : [ 140 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 130 ]
-        } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 115 ]
-        }, {
-          "items" : [ 140 ]
-        } ],
-        "startTime" : "16:50"
+        "startTime" : "04:50 PM"
       } ],
       "tracks" : [ {
-        "title" : "Expo hall"
+        "title" : "Lambago Hall"
       }, {
-        "title" : "Conference hall"
+        "title" : "Breakout #1"
       }, {
-        "title" : "Workshops hall"
+        "title" : "Breakout #2"
       } ]
     }
   },
   "sessions" : {
     "101" : {
       "complexity" : "Beginner",
-      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+      "description" : "Registration starts now!",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers" : [ "mete_atamel", "adrian_kajda" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Windows and .NET on Google Cloud Platform "
+      "presentation" : "",
+      "speakers" : "",
+      "tags" : "",
+      "title" : "Registration"
     },
     "102" : {
       "complexity" : "Beginner",
@@ -521,146 +382,6 @@
       "speakers" : [ "jana_moudra" ],
       "tags" : [ "Web" ],
       "title" : "Offline-first progressive web apps"
-    },
-    "122" : {
-      "complexity" : "Intermediate",
-      "description" : "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
-      "speakers" : [ "jakub_škvára" ],
-      "tags" : [ "Android" ],
-      "title" : "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-      "videoId" : "b9NgjqM6dvk"
-    },
-    "123" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [ "david_vávra" ],
-      "tags" : [ "Web" ],
-      "title" : "TBD"
-    },
-    "124" : {
-      "complexity" : "Intermediate",
-      "description" : "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
-      "language" : "English",
-      "speakers" : [ "valentyn_shybanov" ],
-      "tags" : [ "Android" ],
-      "title" : "Continues Integration in Android",
-      "videoId" : "MmGDQkgknfY"
-    },
-    "125" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [ "sergiy_mokienko" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Kubernetes in a real world"
-    },
-    "126" : {
-      "complexity" : "Intermediate",
-      "description" : "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-      "speakers" : [ "ihor_dvoretskyi" ],
-      "tags" : [ "Android" ],
-      "title" : "Android hacking for dummies: ‘if’ operator demolytion",
-      "videoId" : "We04nyIIsA0"
-    },
-    "127" : {
-      "complexity" : "Intermediate",
-      "description" : "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
-      "language" : "Ukrainian",
-      "presentation" : "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-      "speakers" : [ "michael_pustovit" ],
-      "tags" : [ "Android" ],
-      "title" : "ExoPlayer: Media playback without pain (almost...)"
-    },
-    "128" : {
-      "complexity" : "Beginner",
-      "description" : "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
-      "language" : "English",
-      "speakers" : [ "anton__minashkin" ],
-      "tags" : [ "Android" ],
-      "title" : "Android Wear 2.0: Great Changes Upcoming this Fall"
-    },
-    "129" : {
-      "complexity" : "Intermediate",
-      "description" : "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
-      "speakers" : [ "constantine_mars" ],
-      "tags" : [ "Android" ],
-      "title" : "Accessibility on Android"
-    },
-    "130" : {
-      "complexity" : "Intermediate",
-      "description" : "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-      "language" : "English",
-      "speakers" : [ "constantine_mars" ],
-      "tags" : [ "Android" ],
-      "title" : "Designing an Android Wear Application"
-    },
-    "131" : {
-      "complexity" : "Intermediate",
-      "description" : "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
-      "speakers" : [ "resul_caner__yildirim" ],
-      "tags" : [ "Android" ],
-      "title" : "Deal with it: Android DataBinding explained"
-    },
-    "132" : {
-      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
-      "icon" : "registration",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title" : "Registration & morning Coffee"
-    },
-    "133" : {
-      "description" : "Foooooooood!",
-      "icon" : "lunch",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title" : "Lunch"
-    },
-    "134" : {
-      "description" : "Coffeeeeeee!",
-      "icon" : "coffee-break",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
-      "title" : "Coffee break"
-    },
-    "135" : {
-      "description" : "Coffeeeeeee!",
-      "icon" : "coffee-break",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
-      "title" : "Morning coffee"
-    },
-    "136" : {
-      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-      "icon" : "opening",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
-      "language" : "English",
-      "title" : "GDG DevFest Ukraine 2016 Opening"
-    },
-    "137" : {
-      "description" : "Afterparty is a great time to have some fun and meet new people",
-      "icon" : "party",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
-      "title" : "Afterparty & Networking"
-    },
-    "138" : {
-      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-      "title" : "Conference closing and contest winners announcements"
-    },
-    "139" : {
-      "description" : "",
-      "language" : "English",
-      "title" : "Keynote"
-    },
-    "140" : {
-      "description" : "TBD",
-      "language" : "English",
-      "title" : "TBD"
     }
   },
   "speakers" : {
@@ -1437,234 +1158,212 @@
   },
   "team" : [ {
     "members" : [ {
-      "name" : "Oleh Zasadnyy",
-      "photo" : "/images/people/oleh_zasadnyy.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Website and sponsors"
-    }, {
-      "name" : "Sofiya Huts",
-      "photo" : "/images/people/sofiya_huts.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+SofiaHuts",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
-        "name" : "Facebook"
-      } ],
-      "title" : "Social and media"
-    }, {
-      "name" : "Vitaliy Zasadnyy",
-      "photo" : "/images/people/vitaliy_zasadnyy.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
-      "socials" : [ {
+      "name" : "Josan Astrid Chug",
+      "photo" : "/people/josan.jpeg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fjosan.jpeg?alt=media&token=6a1e47ee-e4b7-4b59-a67b-8df3ce1ae907",
+      "socials" : [{
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/zasadnyy",
+        "link" : "https://www.linkedin.com/in/josanastrid/",
         "name" : "Linkedin"
       }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/zasadnyy",
-        "name" : "Twitter"
+        "icon" : "facebook",
+        "link" : "https://web.facebook.com/josanastrid",
+        "name" : "Facebook"
       }, {
+        "icon" : "instagram",
+        "link" : "https://instagram.com/josanastrid",
+        "name" : "Instagram"
+      }],
+      "title" : "The Dyosa"
+    }, {
+      "name" : "Alaiza Geene Maandig",
+      "photo" : "/images/people/jhai.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fjhai.jpg?alt=media&token=cf656e36-43eb-4880-8864-9211a43a26dd",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/jhaiwho",
+        "name" : "Facebook"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/alaiza-geene-maandig/",
+        "name" : "Linkedin"
+      },{
+        "icon" : "instagram",
+        "link" : "https://instagram.com/alaizageene",
+        "name" : "Instagram"
+      },{
         "icon" : "website",
-        "link" : "http://v.zasadnyy.com/",
+        "link" : "https://www.jhaiwho.com",
         "name" : "Blog"
       } ],
-      "title" : "Speakers"
+      "title" : "The Person to Blame"
     }, {
-      "name" : "Marta Maxymiak",
-      "photo" : "/images/people/marta_maxymiak.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fmarta_maxymiak.jpg?alt=media&token=6532f039-7f86-4304-8558-dbfbb3ae8d68",
+      "name" : "Edmund Salcedo Jr",
+      "photo" : "/images/people/ed.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fed.jpg?alt=media&token=388faa58-d6c2-4e0b-849b-4f2b96b91ea9",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/104036874811391520583",
-        "name" : "Google+"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/salcedoedmundjr/",
+        "name" : "Linkedin"
       }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/marta.maxymiak",
+        "link" : "https://web.facebook.com/profile.php?id=100000427886520",
         "name" : "Facebook"
       } ],
-      "title" : "Party and happiness"
+      "title" : "The Nerd"
     }, {
-      "name" : "Ostap Andrusiv",
-      "photo" : "/images/people/ostap_andrusiv.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
+      "name" : "RJ Igdon",
+      "photo" : "/images/people/rj.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2FRJ.jpg?alt=media&token=fb05b87e-ddc6-4a0e-9141-19f335bc7211",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://google.com/+OstapAndrusiv",
-        "name" : "Google+"
+        "icon" : "facebook",
+        "link" : "https://web.facebook.com/j.igdon01",
+        "name" : "Facebook"
+      } ],
+      "title" : "The Nth Wheel"
+    }, {
+      "name" : "Estella Bravo",
+      "photo" : "/images/people/stella.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fstella.jpg?alt=media&token=c36d1e54-c888-45bb-bd9f-65d51b909fca",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://web.facebook.com/eseutellaxo",
+        "name" : "Facebook"
+      }, {
+        "icon" : "instagram",
+        "link" : "https://www.instagram.com/estellabravojr/",
+        "name" : "instagram"
+      } ],
+      "title" : "The Gate to Happiness"
+    }, {
+      "name" : "Patrece Lugpatan",
+      "photo" : "/images/people/pat.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fpat.jpg?alt=media&token=c99e97ec-f070-495e-8aed-67e185132ba4",
+      "socials" : [ {
+        "icon" : "instagram",
+        "link" : "https://www.instagram.com/lugpatanpatrece/",
+        "name" : "Instagram+"
       }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/ostap.andrusiv",
+        "link" : "https://web.facebook.com/patrece.lugpatan",
         "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/p1f",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://andrusiv.com/",
-        "name" : "Blog"
       } ],
-      "title" : "Sponsors"
+      "title" : "The Tummy Filler"
     }, {
-      "name" : "Vasylyna Mytsak",
-      "photo" : "/images/people/vasylyna_mytsak.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
+      "name" : "Marc Reyes",
+      "photo" : "/images/people/marc.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fmarc.jpg?alt=media&token=37a4e759-ffb9-4afd-8b08-8e314d2ab3d1",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+ВасилинаМицак",
-        "name" : "Google+"
-      }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/vasylyna.mytsak",
+        "link" : "https://web.facebook.com/marcxplanet",
         "name" : "Facebook"
+      }, {
+        "icon" : "instagram",
+        "link" : "https://www.instagram.com/marcxplanet/",
+        "name" : "Instagram"
       } ],
-      "title" : "Party and happiness"
+      "title" : "The Creative One"
     }, {
-      "name" : "Volodya Karpliuk",
-      "photo" : "/images/people/volodya_karpliuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
+      "name" : "Hexa Solana",
+      "photo" : "/images/people/hexa.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fhexa.jpg?alt=media&token=088412b8-9838-4417-b96f-60fd566c7ab3",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+VolodyaKarpliuk23",
-        "name" : "Google+"
-      }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/volodya.karpluk",
+        "link" : "https://web.facebook.com/json.xyz",
         "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/keyv23",
-        "name" : "Twitter"
       } ],
-      "title" : "Speakers"
+      "title" : "The Right Hand Man"
     }, {
-      "name" : "Diana Pinchuk",
-      "photo" : "/images/people/diana_pinchuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
+      "name" : "Zarah Fabricante",
+      "photo" : "/images/people/zarah.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fzarah.jpg?alt=media&token=a0a82f2a-1424-4f70-855a-885e8fe06416",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DianaPinchuk",
-        "name" : "Google+"
-      }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/diana.pinchuk.9",
+        "link" : "https://web.facebook.com/zarahfabricante",
         "name" : "Facebook"
+      }, {
+        "icon" : "instagram",
+        "link" : "https://instagram.com/zarahfabricante",
+        "name" : "Instagram"
       } ],
-      "title" : "Social and media"
+      "title" : "Iligan Dyosa"
     } ],
     "title" : "Core Team"
   }, {
     "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "",
+      "name" : "DK Chavez",
+      "photo" : "/images/people/dk.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fdk.jpg?alt=media&token=c3154c77-70a0-4e91-a903-b2cd3b19d6b7",
       "socials" : [ {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
+        "link" : "https://www.facebook.com/dylan.k.chavez",
+        "name" : "Facebook"
+      } ],
+      "title" : "Technical"
+    }, {
+      "name" : "Joanna Jamorabon",
+      "photo" : "/images/people/joanna.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fjoanna.jpg?alt=media&token=bd0d2aaf-1314-4fed-82be-20e93068cda7",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://web.facebook.com/joanna.jamorabon",
+        "name" : "Facebook"
+      },{
+        "icon" : "instagram",
+        "link" : "https://instagram.com/ijoanna26",
+        "name" : "Instagram"
+      } ],
+      "title" : "Registration"
+    }, {
+      "name" : "Dean Quinto",
+      "photo" : "/images/people/dean.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fdean.jpg?alt=media&token=bdbe2b82-0a68-4fa0-a3ae-33913e825197",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/dtmjdean",
         "name" : "Facebook"
       }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
+        "icon" : "instagram",
+        "link" : "https://twitter.com/d_count",
+        "name" : "Instagram"
       } ],
-      "title" : "Cloud stream"
+      "title" : "Technical"
     }, {
-      "name" : "Dmytro Danylyk",
-      "photo" : "/images/people/dmytro_danylyk.jpg",
-      "photoUrl" : "",
+      "name" : "Khris Danielle Jalog",
+      "photo" : "/images/people/kris.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Fkris.jpg?alt=media&token=16dd7535-bc39-421b-abd5-5303fba5c957",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
+        "icon" : "facebook",
+        "link" : "https://web.facebook.com/KhrisDaniels",
+        "name" : "Facebook"
       } ],
-      "title" : "Android Stream"
+      "title" : "GDG Gingoog Lead"
+    }, {
+      "name" : "Lyjieme Barro",
+      "photo" : "/images/people/lyjieme.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/gdgcdodevfest-dev.appspot.com/o/images%2Fpeople%2Flyjieme.jpg?alt=media&token=0058fae2-7c6b-49e4-8e63-a0cf052dabdd",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://web.facebook.com/MboyBars",
+        "name" : "Facebook"
+      } ],
+      "title" : "GDG Gingoog Co-Lead"
     } ],
-    "title" : "Program Committee"
+    "title" : "The Newbloods"
   } ],
   "tickets" : [ {
     "available" : true,
-    "currency" : "$",
-    "ends" : "Oct 13",
-    "info" : "Requires valid student/lecturer ID",
-    "name" : "EDU",
-    "price" : 80,
-    "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "$",
-    "ends" : "Mar 31",
-    "inDemand" : false,
-    "info" : "Or first 50 tickets",
-    "name" : "Pre Early Bird",
-    "price" : 100,
-    "regular" : true,
-    "soldOut" : true,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "ends" : "Jun 30",
+    "currency" : "₱",
+    "ends" : "Oct 17",
     "inDemand" : true,
-    "info" : "Or first 200 tickets",
-    "name" : "Early Bird",
-    "price" : 120,
-    "regular" : true,
-    "soldOut" : false,
-    "starts" : "Feb 7",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : false,
-    "currency" : "$",
-    "ends" : "Sep 30",
-    "inDemand" : false,
-    "info" : "Or first 350 tickets",
+    "info" : "Always free!",
     "name" : "Regular",
-    "price" : 160,
+    "price" : 0,
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Jul 1",
-    "url" : "https://2event.com/events/1027108"
-  }, {
-    "available" : true,
-    "currency" : "$",
-    "info" : "Money worth nothing when you love it",
-    "name" : "I Love DFUA",
-    "price" : 280,
-    "soldOut" : false,
-    "url" : "https://2event.com/events/1027108"
+    "starts" : "Nov 10",
+    "url" : "https://goo.gl/forms/WUHAXUXkRCrinBrF3"
   } ],
   "triggers" : {
     "images" : false
