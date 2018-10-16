@@ -70,13 +70,13 @@ self.addEventListener('message', ({ data }) => {
 
       const sessionsLen = timeslot.sessions.length;
       for (let sessionIndex = 0; sessionIndex < sessionsLen; sessionIndex++) {
-        let subSessions = []; // Empty Constant Array
+        let subSessions = [];
 
         const subSessionsLen = timeslot.sessions[sessionIndex].items.length;
         for (let subSessionIndex = 0; subSessionIndex < subSessionsLen; subSessionIndex++) {
           const sessionId = timeslot.sessions[sessionIndex].items[subSessionIndex];
-          const subsession = sessionsRaw[sessionId]; // Priority Number
-          const mainTag = subSessions.tags ? subSessions.tags[0] : 'General'; //Error Here: Change the variable from subsession to subSessions constant array.
+          const subsession = sessionsRaw[sessionId];
+          const mainTag = subsession.tags ? subsession.tags[0] : 'General';
           const endTimeRaw = timeslot.sessions[sessionIndex].extend
             ? day.timeslots[timeslotsIndex + timeslot.sessions[sessionIndex].extend - 1].endTime
             : timeslot.endTime;
@@ -93,7 +93,7 @@ self.addEventListener('message', ({ data }) => {
             ? sessions[timeslot.sessions[sessionIndex].items[subSessionIndex - 1]].endTime
             : timeslot.startTime;
 
-          if (subSessions.tags) { //
+          if (subsession.tags) {
             dayTags = [...new Set([...dayTags, ...subsession.tags])];
           }
           scheduleTags = addTagTo(scheduleTags || [], mainTag);
@@ -102,12 +102,12 @@ self.addEventListener('message', ({ data }) => {
             mainTag,
             id: sessionId.toString(),
             day: dayKey,
-            track: subSessions.track || day.tracks[sessionIndex], //
+            track: subsession.track || day.tracks[sessionIndex],
             startTime,
             endTime,
             duration: getDuration(dayKey, startTime, endTime),
             dateReadable: day.dateReadable,
-            speakers: subSessions.speakers ? subsession.speakers.map((speakerId) => Object.assign({ //
+            speakers: subsession.speakers ? subsession.speakers.map((speakerId) => Object.assign({
               id: speakerId,
             }, speakersRaw[speakerId], {
               sessions: null,
@@ -116,7 +116,7 @@ self.addEventListener('message', ({ data }) => {
 
           subSessions.push(finalSubSession);
           sessions[sessionId] = finalSubSession;
-          if (subSessions.speakers) { //
+          if (subsession.speakers) {
             speakers = Object.assign(
               {},
               speakers,
