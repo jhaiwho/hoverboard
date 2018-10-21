@@ -94,7 +94,7 @@ self.addEventListener('message', ({ data }) => {
             : timeslot.startTime;
 
           if (subSessions.tags) { //
-            dayTags = [...new Set([...dayTags, ...subsession.tags])];
+            dayTags = [...new Set([...dayTags, ...subSessions.tags])];
           }
           scheduleTags = addTagTo(scheduleTags || [], mainTag);
 
@@ -107,7 +107,7 @@ self.addEventListener('message', ({ data }) => {
             endTime,
             duration: getDuration(dayKey, startTime, endTime),
             dateReadable: day.dateReadable,
-            speakers: subSessions.speakers ? subsession.speakers.map((speakerId) => Object.assign({ //
+            speakers: subSessions.speakers ? subSessions.speakers.map((speakerId) => Object.assign({ //
               id: speakerId,
             }, speakersRaw[speakerId], {
               sessions: null,
@@ -116,11 +116,11 @@ self.addEventListener('message', ({ data }) => {
 
           subSessions.push(finalSubSession);
           sessions[sessionId] = finalSubSession;
-          if (subSessions.speakers) { //
+          if (subSessions.speakers) {
             speakers = Object.assign(
               {},
               speakers,
-              updateSpeakersSessions(speakersRaw, subsession.speakers, finalSubSession)
+              updateSpeakersSessions(speakersRaw, subSessions.speakers, finalSubSession)
             );
           }
         }
